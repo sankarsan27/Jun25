@@ -5,3 +5,4 @@ print('check2')
 import snowflake_uuid
 print("check4")
 print("check5")
+print("chck6")
