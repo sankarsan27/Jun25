@@ -34,3 +34,4 @@ f=Kmeans_SG(dataset,5)
 f.standardize()
 f.data
 
+##adding some comments
